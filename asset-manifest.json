@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/furFinder-deployed/static/css/main.866ba528.css",
-    "main.js": "/furFinder-deployed/static/js/main.2a463d51.js",
+    "main.js": "/furFinder-deployed/static/js/main.663dd7f0.js",
     "static/js/453.d9347425.chunk.js": "/furFinder-deployed/static/js/453.d9347425.chunk.js",
     "index.html": "/furFinder-deployed/index.html",
     "main.866ba528.css.map": "/furFinder-deployed/static/css/main.866ba528.css.map",
-    "main.2a463d51.js.map": "/furFinder-deployed/static/js/main.2a463d51.js.map",
+    "main.663dd7f0.js.map": "/furFinder-deployed/static/js/main.663dd7f0.js.map",
     "453.d9347425.chunk.js.map": "/furFinder-deployed/static/js/453.d9347425.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.866ba528.css",
-    "static/js/main.2a463d51.js"
+    "static/js/main.663dd7f0.js"
   ]
 }
